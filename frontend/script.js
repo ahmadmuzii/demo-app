@@ -1,3 +1,4 @@
 function login() {
-    console.log("User clicked the login button");
+    console.log("User login feature");
+    alert("Login successful!");
 }
