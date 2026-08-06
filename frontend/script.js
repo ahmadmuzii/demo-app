@@ -1,3 +1,3 @@
 function login() {
-    console.log("Login button clicked");
+    console.log("User clicked the login button");
 }
